@@ -1,4 +1,4 @@
 dependencies:
   helmfile:
-    version: 0.139.3
-    previousVersion: 0.139.2
+    version: 0.139.5
+    previousVersion: 0.139.3
